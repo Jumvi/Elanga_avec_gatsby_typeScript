@@ -1,0 +1,29 @@
+#main{
+    display: flex;
+    justify-content: center;
+    max-width: 80%;
+    align-items: center;
+    text-align: justify;
+    margin: 0 auto;
+    
+
+}
+
+.div-h1 h1{
+    max-width: 80%;
+    
+}
+
+.span{
+    opacity: 0.4;
+    display: block;
+}
+
+.img img{
+    max-width: 80%;
+    
+}
+
+.img{
+    margin: 2rem;
+}
